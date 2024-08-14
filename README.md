@@ -16,9 +16,5 @@ This Real-Time Chat Application is built using React for the frontend, Node.js f
 - **Database**: MongoDB
 - **Real-Time Communication**: Socket.IO
 
-## Installation and Setup
 
-### Prerequisites
-- Node.js installed on your local machine
-- MongoDB installed locally or a MongoDB Atlas account
 
